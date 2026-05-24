@@ -1,2 +1,2 @@
 # PulseRPC
-A application that manipulates discords rich presence feature
+An application that manipulates discords rich presence feature
