@@ -1,21 +1,60 @@
-MIT License
+PULSERPC END USER LICENSE AGREEMENT (EULA)
 
-Copyright (c) 2026 Shadow Wolf Studios
+Version 1.0
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This End User License Agreement ("Agreement") is a legal agreement between you (either an individual or a single entity) and Shadow Wolf Studios for the PulseRPC software ("Software").
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+By installing, copying, or using the Software, you agree to be bound by the terms of this Agreement.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+---
+
+1. LICENSE GRANT
+You are granted a non-exclusive, non-transferable license to install and use PulseRPC for personal or internal use only.
+
+You may:
+- Install and use the Software on your personal devices
+- Create and save personal configuration profiles
+- Use the Software to manage Discord Rich Presence for your own Discord account
+
+---
+
+2. RESTRICTIONS
+You may NOT:
+- Modify, reverse engineer, decompile, or disassemble the Software
+- Sell, sublicense, or redistribute the Software
+- Use the Software for malicious, abusive, or harmful purposes
+- Remove or alter any branding, credits, or ownership notices
+
+---
+
+3. DATA & PRIVACY
+PulseRPC does not collect, transmit, or store user data externally.
+All settings and profiles remain stored locally on your device unless manually shared by you.
+
+---
+
+4. NO WARRANTY
+This Software is provided "AS IS" without warranty of any kind.
+The developers are not responsible for any damage, data loss, or issues caused by use of the Software.
+
+---
+
+5. TERMINATION
+This license is automatically terminated if you violate any terms of this Agreement.
+Upon termination, you must uninstall and delete all copies of the Software.
+
+---
+
+6. OWNERSHIP
+PulseRPC is developed and owned by Shadow Wolf Studios.
+All rights not expressly granted are reserved.
+
+---
+
+7. CONTACT
+For support, updates, or inquiries:
+https://sws.rf.gd/
+
+---
+
+END OF AGREEMENT
