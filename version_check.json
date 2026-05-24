@@ -3,8 +3,8 @@
     "download_url": "https://shadow-wolf-studios.itch.io/puslerpc",
     "notes": [
         "Added update checker",
-        "Added version page",
-        "Fixed taskbar icon bug",
-        "Improved connection testing"
+        "Added version section in settings",
+        "Improved connection testing",
+        "Find the Devlog on Itch"
     ]
 }
