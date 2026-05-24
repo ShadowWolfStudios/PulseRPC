@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/platform-Windows-gold?style=for-the-badge">
   <img src="https://img.shields.io/badge/license-MIT-black?style=for-the-badge">
 
-  <a href="https://shadow-wolf-studios.itch.io">
+  <a href="[https://shadow-wolf-studios.itch.io](https://shadow-wolf-studios.itch.io/puslerpc)">
     <img src="https://img.shields.io/badge/Download-Itch.io-fa5c5c?style=for-the-badge&logo=itchdotio&logoColor=white">
   </a>
 </p>
