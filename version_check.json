@@ -1,5 +1,10 @@
 {
     "version": "1.3.0",
-    "download_url": "https://shadow-wolf-studios.itch.io/puslerpc",
-    "changelog": "Added update checker and hover text fixes."
+    "download_url": "https://shadow-wolf-studios.itch.io/pulserpc",
+    "notes": [
+        "Added update checker",
+        "Added version page",
+        "Fixed taskbar icon bug",
+        "Improved connection testing"
+    ]
 }
